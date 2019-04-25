@@ -7,6 +7,6 @@ func main() {
 	var rubl float64
 	fmt.Scanln(&rubl)
 	const dollar float64 = 64
-	dollsum := (rubl / dollar)
-	fmt.Println("Получите", dollsum, "$ распишитесь!")
+	dollAmount := (rubl / dollar)
+	fmt.Println("Получите", dollAmount, "$ распишитесь!")
 }

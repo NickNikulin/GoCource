@@ -4,9 +4,9 @@ import "fmt"
 
 func main() {
 	fmt.Println("Сколько рублей хотите поменять?")
-	var rubl float64
-	fmt.Scanln(&rubl)
+	var rub float64
+	fmt.Scanln(&rub)
 	const dollar float64 = 64
-	dollAmount := (rubl / dollar)
+	dollAmount := (rub / dollar)
 	fmt.Println("Получите", dollAmount, "$ распишитесь!")
 }

@@ -23,7 +23,7 @@ type truck struct {
 	engineRun   string  /* запущен ли двигатель */
 	openWindows string  /* открыты ли окна */
 	bodyLoad    float64 /* насколько заполнен обьем кузова */
-	bodyLow     string  /* Кузов опущен, кузов поднят */
+	bodyLow     string  /* кузов опущен, кузов поднят */
 
 }
 

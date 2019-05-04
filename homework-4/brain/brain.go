@@ -9,7 +9,7 @@ type EmptyCupBrain struct {
 }
 
 func (c *EmptyCupBrain) Make() {
-	fmt.Println("Open your mingt")
+	fmt.Println("Open your mind")
 }
 
 type BeLikeWaterBrain struct {

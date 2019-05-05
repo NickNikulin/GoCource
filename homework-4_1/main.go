@@ -1,7 +1,7 @@
 package main
 
 /*
- Syntax Go. Homework 4 - Methods and interfaces
+ Syntax Go. Homework 4.1 - Methods and interfaces
  A simple experiment Bruce Lee Style consisting of two packages
  - brain and geek.
  Nick Nikulin, dated Мay 04, 2019
@@ -10,8 +10,8 @@ package main
 
 import (
 	"fmt"
-	"gocourse1/homework-4/brain"
-	"gocourse1/homework-4/geek"
+	"gocourse1/homework-4_1/brain"
+	"gocourse1/homework-4_1/geek"
 )
 
 func main() {

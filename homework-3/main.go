@@ -1,7 +1,7 @@
 package main
 
 /*
- * Syntax Go. Homework 2. Fleet monitoring/data structures ver. 1.0
+ * Syntax Go. Homework 3. Fleet monitoring/data structures ver. 1.0
  * Nick Nikulin, dated Apr 28, 2019
  */
 

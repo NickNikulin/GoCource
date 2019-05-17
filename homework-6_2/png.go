@@ -1,5 +1,12 @@
 package main
 
+/*
+ Syntax Go. Homework 6.2 - Standard library part 2
+The task is to add additions to the code. Draw two lines.
+ Nick Nikulin, dated Мay 17, 2019
+ Teacher, Sergey Iryupin
+*/
+
 import (
 	"fmt"
 	"image"

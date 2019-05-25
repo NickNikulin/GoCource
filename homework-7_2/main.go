@@ -5,7 +5,7 @@ Syntax Go. Homework 7.2 - goroutines and chanels.
 Task:Change the program conveyor. Change the number of transmitted values.
 Ensure the correct completion of all goroutines.
 Nick Nikulin, dated Мay 25, 2019
-Teacher, Sergey Iryupin
+Teacher, Sergey Iryupin.
 */
 
 import (
